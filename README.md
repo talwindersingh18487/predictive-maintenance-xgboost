@@ -53,7 +53,7 @@ The XGBoost model highlighted exactly which operational thresholds are the prima
 
 ## 🏃 How to Run This Project
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
+   git clone [https://github.com/talwindersingh1847/predictive-maintenance-xgboost.git](https://github.com/talwindersingh1847/predictive-maintenance-xgboost.git)
+   cd predictive-maintenance-xgboost
